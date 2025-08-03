@@ -1,5 +1,9 @@
 Name: UWINEZA Assoumpta
-Student ID: 26243                           on03/08/2025
+
+Student ID: 26243
+
+on03/08/2025
+
 Course: Introduction to Big Data
 
 
@@ -183,7 +187,20 @@ Regional Comparisons:
 
 America leads in absolute health spending
 
-Africa shows highest population growth with lowest health investment
+🎯 Policy Implications
+Targeted Interventions: Prioritize health infrastructure in mid-income, high-population nations
+
+Equity Focus: Address Sub-Saharan Africa's dual burden of low income and health outcomes
+
+Sustainable Development: Balance population growth with health investment in emerging economies
+
+🙋 Contact
+For dataset access or collaboration:
+📧 Email: [assoumptauwinez@gmail.com]
+🔗 LinkedIn: [assoumptauwineza]
+Contact:+250785389150
+
+Thank you for visiting my project! 😊
 
 
 
