@@ -166,7 +166,6 @@ Lowest Life Expectancy: Sub-Saharan Africa (μ=61.3)
 Income-Health Correlation: Strongest in Americas (r=0.81)
 
 3. Population Effects
-https://outputt.png
 
 Large populations show wider health disparities at similar income levels
 
@@ -175,7 +174,7 @@ Small, high-income nations cluster at top-right of health-income spectrum
 
 📊 Visual Analytics
 Power BI Dashboard Highlights
-https://Screenshot%25202025-08-03%2520163755.png
+
 
 Key Visualizations:
 
@@ -195,10 +194,15 @@ Equity Focus: Address Sub-Saharan Africa's dual burden of low income and health 
 Sustainable Development: Balance population growth with health investment in emerging economies
 
 🙋 Contact
+
 For dataset access or collaboration:
+
 📧 Email: [assoumptauwinez@gmail.com]
+
 🔗 LinkedIn: [assoumptauwineza]
+
 Contact:+250785389150
+
 
 Thank you for visiting my project! 😊
 
